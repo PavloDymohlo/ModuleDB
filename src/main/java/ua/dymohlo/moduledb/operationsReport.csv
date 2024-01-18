@@ -1,0 +1,16 @@
+"User","Account","Operation ID","Type","Amount","Category","Transaction Time"
+
+"Big Bob","Premium card","29","INCOME","20000","winning the lottery","2024-01-18T19:33:28.189367"
+"Big Bob","Salary card","30","INCOME","25000","salary","2024-01-18T19:34:33.612533"
+"Big Bob","Premium card","32","EXPENSE","11500","order in a restaurant","2024-01-18T19:38:54.209430"
+"Big Bob","Premium card","33","EXPENSE","170","taxi payment","2024-01-18T19:39:49.425866"
+"Big Bob","Premium card","34","EXPENSE","2000","Transfer to Salary card","2024-01-18T19:41:56.265212"
+"Big Bob","Premium card","36","EXPENSE","8123","Transfer to Salary card","2024-01-18T19:43:46.283403"
+"Big Bob","Salary card","37","INCOME","8123","Transfer from Premium card","2024-01-18T19:43:46.283403"
+"Big Bob","Salary card","38","EXPENSE","4265","ATB market","2024-01-18T19:46:46.596086"
+
+
+"John Doe","Salary card","31","INCOME","15000","salary","2024-01-18T19:35:20.404806"
+"John Doe","Salary card","35","INCOME","2000","Transfer from Premium card","2024-01-18T19:41:56.265212"
+"John Doe","Salary card","39","EXPENSE","1250","cinema","2024-01-18T19:48:29.206886"
+
